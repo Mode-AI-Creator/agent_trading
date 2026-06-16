@@ -1,0 +1,31 @@
+# Web framework
+fastapi==0.115.0
+uvicorn[standard]==0.30.0
+
+# Database
+sqlalchemy==2.0.35
+
+# Settings & env
+pydantic-settings==2.5.0
+python-dotenv==1.0.1
+
+# HTTP
+httpx==0.28.1
+aiohttp==3.10.0
+
+# OKX WebSocket
+websockets==13.0
+
+# AI — DeepSeek via OpenAI-compatible API
+openai>=1.40.0
+
+# Data
+pandas==2.2.3
+numpy==1.26.4
+
+# Scheduling
+APScheduler==3.10.4
+
+# Utilities
+python-dateutil==2.9.0
+pytz==2024.1
